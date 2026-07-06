@@ -8,6 +8,26 @@ app = Flask(__name__)
 
 URLS_TO_PING = [
     "https://pingerbeats.onrender.com",
+    "https://sorveteriafiorence1.onrender.com/api/health",
+    "https://cachoeira.onrender.com",
+   # "https://phdtatto.onrender.com/",
+   # "https://maykonrodass.onrender.com/",
+    # "https://beckend-ydd1.onrender.com/",
+     # "https://painel-mariana-dentista.onrender.com/painel/",
+     # "https://painel-mariana-dentista.onrender.com/",
+     "https://contabilidade-inteligente-frcy.onrender.com/",
+  #  "https://contabilidadefull.onrender.com/api/health",
+   # "https://vscodelucas.onrender.com",
+  #  "https://lucasdiario.onrender.com",
+    "https://seleto.onrender.com",
+    #  "https://qg-ironclad.onrender.com",
+      "https://lucaslavaeseca.onrender.com",
+      "https://lavaesecaerrors.onrender.com",
+      "https://lucaszap-bpo0.onrender.com",
+      "https://chatvivomad.onrender.com",
+      "https://maykonrodasuberlandia.onrender.com",
+      "https://maykonrodas.onrender.com"
+    
 ]
 
 last_ping_result = "Aguardando primeiro ping..."
