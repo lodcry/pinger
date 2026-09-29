@@ -51,7 +51,8 @@ URLS_TO_PING = [
       "https://maykonrodasuberlandia.onrender.com",
       "https://maykonrodas.onrender.com",
       "https://genesis-3aqp.onrender.com",
-      "https://radinhopiti.onrender.com"
+      "https://radinhopiti.onrender.com",
+      "https://siandiver-uni.onrender.com"
     
 ]
 
