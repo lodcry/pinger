@@ -28,7 +28,7 @@ URLS_TO_PING = [
       "https://chatvivomad.onrender.com",
       "https://maykonrodasuberlandia.onrender.com",
       "https://maykonrodas.onrender.com",
-    https://siandiver.onrender.com/siandiver",
+     "https://siandiver.onrender.com/siandiver",
     "https://kyonfcteste.onrender.com",
     "https://qgkyo.onrender.com",
     "https://sorveteriafiorence1.onrender.com/api/health",
