@@ -8,6 +8,7 @@ app = Flask(__name__)
 
 URLS_TO_PING = [
     "https://pinger-koeh.onrender.com",
+    "https://refrigeracaoabel.onrender.com",
   #  "https://pingerbeats.onrender.com",
     "https://sorveteriafiorence1.onrender.com/api/health",
     "https://cachoeira.onrender.com",
