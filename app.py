@@ -7,6 +7,7 @@ import threading
 app = Flask(__name__)
 
 URLS_TO_PING = [
+     "https://servidorcomerciopatriota.onrender.com",
      "https://taticoglow.onrender.com"
     "https://pinger-koeh.onrender.com",
     "https://sianfabrica.onrender.com",
